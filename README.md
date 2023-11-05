@@ -42,9 +42,9 @@ https://zip-code-app.vercel.app/
 
 ## API Usage
 
-API LINK - https://rapidapi.com/saasindustries/api/zipcodebase-zip-code-search
+ https://rapidapi.com/saasindustries/api/zipcodebase-zip-code-search
 
-API Key: ca2cd703e6mshc63cac455db0540p140975jsn7e7a94f94802
+ ca2cd703e6mshc63cac455db0540p140975jsn7e7a94f94802
 
 ## Built With
 
