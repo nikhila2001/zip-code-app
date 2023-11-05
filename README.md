@@ -41,9 +41,9 @@ https://zip-code-app.vercel.app/
 
 ## Usage
 
-![enter-postal-code](public/images/enter-postal-ss.png)
-![error-handling](public/images/error-handling-ss.png)
-![location-info](public/images/location-info-ss.png)
+![enter-postal-code](public/images/enter-postal-ss.png?raw=true)
+![error-handling](public/images/error-handling-ss.png?raw=true)
+![location-info](public/images/location-info-ss.png?raw=true)
 
 ## API Usage
 
