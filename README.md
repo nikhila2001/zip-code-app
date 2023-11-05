@@ -29,6 +29,8 @@ ZipSight provides insights about the location by postal code Obtained from the u
 
 https://zip-code-app.vercel.app/
 
+## Getting Started
+
 ### Prerequisites
 
 - [Node.js](https://nodejs.org/) - Ensure you have Node.js installed.
